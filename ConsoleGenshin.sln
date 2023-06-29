@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGenshin", "ConsoleGenshin\ConsoleGenshin.csproj", "{FCD9BA14-0168-4DB8-B0F9-EDF7C4B68137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenshinQuake", "GenshinQuake\GenshinQuake.csproj", "{8A554297-9094-411E-A182-57E537A7AA17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD9BA14-0168-4DB8-B0F9-EDF7C4B68137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD9BA14-0168-4DB8-B0F9-EDF7C4B68137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD9BA14-0168-4DB8-B0F9-EDF7C4B68137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD9BA14-0168-4DB8-B0F9-EDF7C4B68137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A554297-9094-411E-A182-57E537A7AA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A554297-9094-411E-A182-57E537A7AA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A554297-9094-411E-A182-57E537A7AA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A554297-9094-411E-A182-57E537A7AA17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F85D4F-730D-4483-849C-996A6399FE58}
+	EndGlobalSection
+EndGlobal
